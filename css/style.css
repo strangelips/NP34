@@ -397,7 +397,8 @@ a:focus {
 }
 
 #navbar li {
-  padding-left: 15px;
+  padding-left: 7px;
+  padding-right: 7px;
 }
 
 #navbar .nav-link {
